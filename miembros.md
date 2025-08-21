@@ -17,3 +17,6 @@
 * Vision
 * Wasp
 * Antman
+* Doctor Strange
+* Capitana Marvel
+
