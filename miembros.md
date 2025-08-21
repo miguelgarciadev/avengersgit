@@ -17,6 +17,6 @@
 * Vision
 * Wasp
 * Antman
-* Doctor Strange
+* Doctor Extrañito
 * Capitana Marvel
 
